@@ -1,0 +1,19 @@
+{
+    "name": "deha-soft/laravel-gmo-payment",
+    "description": "GMO payment sdk for laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DehaSoft\\LaravelGmoPayment\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Deha",
+            "email": "developer@deha-soft.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
